@@ -10,4 +10,4 @@ layout: about
 
 snus-kz.com — интернет-магазин специализирующийся на продаже шведского снюса в Казахстане.
 
-[Instagram](https://www.instagram.com/snus.kz/)!
+[Instagram](https://www.instagram.com/snus.kz/)
